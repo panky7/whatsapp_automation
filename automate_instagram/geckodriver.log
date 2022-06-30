@@ -1,0 +1,413 @@
+1656610305327	geckodriver	INFO	Listening on 127.0.0.1:52496
+1656610694353	geckodriver	INFO	Listening on 127.0.0.1:52768
+1656610694859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52769" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileKVxkQG"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:38:15.649 plugin-container[54369:757205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:15.651 plugin-container[54369:757205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:38:15.659 plugin-container[54369:757205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:15.676 plugin-container[54369:757205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:38:15.677 plugin-container[54369:757203] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:15.677 plugin-container[54369:757203] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656610695788	Marionette	INFO	Marionette enabled
+1656610695818	Marionette	INFO	Listening on port 52777
+WebDriver BiDi listening on ws://localhost:52769
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 52777
+1656610696223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileKVxkQG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52769/devtools/browser/f6d50bb2-6f0d-41a3-8138-7815073b6ccf
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656610698812	Marionette	INFO	Stopped listening on port 52777
+1656610738218	geckodriver	INFO	Listening on 127.0.0.1:52828
+1656610738732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52829" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofilekWIw0k"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:38:59.139 plugin-container[54438:758579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:59.139 plugin-container[54438:758579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:38:59.148 plugin-container[54438:758579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:59.167 plugin-container[54438:758579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:38:59.167 plugin-container[54438:758583] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:38:59.168 plugin-container[54438:758583] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656610739253	Marionette	INFO	Marionette enabled
+1656610739322	Marionette	INFO	Listening on port 52836
+WebDriver BiDi listening on ws://localhost:52829
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 52836
+1656610739553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofilekWIw0k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52829/devtools/browser/89f12cff-7d34-4305-bff0-826e88348ca1
+1656610741839	Marionette	INFO	Stopped listening on port 52836
+1656611094151	geckodriver	INFO	Listening on 127.0.0.1:53036
+1656611235229	geckodriver	INFO	Listening on 127.0.0.1:53172
+1656611235747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53173" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofiledOQSW1"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:47:16.167 plugin-container[55219:771381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:47:16.168 plugin-container[55219:771381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:47:16.172 plugin-container[55219:771381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:47:16.172 plugin-container[55219:771381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:47:16.172 plugin-container[55219:771379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:47:16.172 plugin-container[55219:771379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611236241	Marionette	INFO	Marionette enabled
+1656611236259	Marionette	INFO	Listening on port 53179
+WebDriver BiDi listening on ws://localhost:53173
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53179
+1656611236609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofiledOQSW1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53173/devtools/browser/03268c1e-cb83-4f6d-bc13-ef1853848f04
+1656611238879	Marionette	INFO	Stopped listening on port 53179
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656611554672	geckodriver	INFO	Listening on 127.0.0.1:53329
+1656611555168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53330" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileJAXDm6"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:52:35.710 plugin-container[55775:776854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:35.710 plugin-container[55775:776854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:35.716 plugin-container[55775:776854] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:35.716 plugin-container[55775:776854] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:35.716 plugin-container[55775:776850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:35.716 plugin-container[55775:776850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611555798	Marionette	INFO	Marionette enabled
+1656611555827	Marionette	INFO	Listening on port 53335
+WebDriver BiDi listening on ws://localhost:53330
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53335
+1656611556062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileJAXDm6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53330/devtools/browser/c646cb7a-88a6-4ac9-8e9d-2151d250211a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656611558486	Marionette	INFO	Stopped listening on port 53335
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656611568228	geckodriver	INFO	Listening on 127.0.0.1:53362
+1656611568747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53363" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileYlIH9V"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:52:49.272 plugin-container[55824:777414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:49.272 plugin-container[55824:777414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:49.277 plugin-container[55824:777414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:49.277 plugin-container[55824:777414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:49.277 plugin-container[55824:777424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:49.277 plugin-container[55824:777424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611569348	Marionette	INFO	Marionette enabled
+1656611569375	Marionette	INFO	Listening on port 53369
+WebDriver BiDi listening on ws://localhost:53363
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53369
+1656611569696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileYlIH9V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53363/devtools/browser/cd84b807-fb3f-4628-aa28-4b24e9c9eb9c
+1656611571911	Marionette	INFO	Stopped listening on port 53369
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656611577240	geckodriver	INFO	Listening on 127.0.0.1:53389
+1656611577759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53390" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofile2B0ieu"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:52:58.266 plugin-container[55861:777929] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:58.266 plugin-container[55861:777929] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:58.271 plugin-container[55861:777929] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:58.271 plugin-container[55861:777929] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:52:58.272 plugin-container[55861:777938] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:52:58.272 plugin-container[55861:777938] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611578343	Marionette	INFO	Marionette enabled
+1656611578373	Marionette	INFO	Listening on port 53395
+WebDriver BiDi listening on ws://localhost:53390
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53395
+1656611578701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofile2B0ieu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53390/devtools/browser/04df8ae2-dc24-4bbc-8970-6ac7e3bdae66
+1656611581037	Marionette	INFO	Stopped listening on port 53395
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656611598144	geckodriver	INFO	Listening on 127.0.0.1:53412
+1656611598659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53413" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileW2h773"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:53:19.063 plugin-container[55899:778503] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:19.063 plugin-container[55899:778503] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:53:19.067 plugin-container[55899:778503] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:19.067 plugin-container[55899:778503] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:53:19.068 plugin-container[55899:778515] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:19.068 plugin-container[55899:778515] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611599133	Marionette	INFO	Marionette enabled
+1656611599167	Marionette	INFO	Listening on port 53418
+Read port: 53418
+WebDriver BiDi listening on ws://localhost:53413
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+1656611599541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileW2h773/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53413/devtools/browser/0df72a79-a02f-4ae1-a364-5c025a8043ef
+1656611601820	Marionette	INFO	Stopped listening on port 53418
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656611606783	geckodriver	INFO	Listening on 127.0.0.1:53434
+1656611607293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53435" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileM65kYA"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 19:53:27.677 plugin-container[55925:778940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:27.677 plugin-container[55925:778940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:53:27.682 plugin-container[55925:778940] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:27.682 plugin-container[55925:778940] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 19:53:27.682 plugin-container[55925:778949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 19:53:27.682 plugin-container[55925:778949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656611607755	Marionette	INFO	Marionette enabled
+1656611607817	Marionette	INFO	Listening on port 53441
+WebDriver BiDi listening on ws://localhost:53435
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53441
+1656611608045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileM65kYA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53435/devtools/browser/52943664-7a6d-481d-9b02-4e3af8f9ed14
+1656611610305	Marionette	INFO	Stopped listening on port 53441
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656612057829	geckodriver	INFO	Listening on 127.0.0.1:53623
+1656612058336	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53624" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileHYkZwo"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:00:58.792 plugin-container[56626:786056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:00:58.792 plugin-container[56626:786056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:00:58.796 plugin-container[56626:786056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:00:58.796 plugin-container[56626:786056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:00:58.797 plugin-container[56626:786054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:00:58.797 plugin-container[56626:786054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612058862	Marionette	INFO	Marionette enabled
+1656612058899	Marionette	INFO	Listening on port 53629
+WebDriver BiDi listening on ws://localhost:53624
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53629
+1656612059337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileHYkZwo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53624/devtools/browser/c9d92e57-790f-4e6e-a60e-ea17516093d0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656612097561	geckodriver	INFO	Listening on 127.0.0.1:53670
+1656612098072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53671" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofilennOwgg"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:01:38.714 plugin-container[56685:787058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:38.714 plugin-container[56685:787058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:01:38.720 plugin-container[56685:787058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:38.720 plugin-container[56685:787058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:01:38.720 plugin-container[56685:787066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:38.720 plugin-container[56685:787066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612098785	Marionette	INFO	Marionette enabled
+1656612098813	Marionette	INFO	Listening on port 53676
+WebDriver BiDi listening on ws://localhost:53671
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53676
+1656612099108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofilennOwgg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53671/devtools/browser/e8eb3f69-ce97-4857-bb14-f64340f57ff4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656612109081	geckodriver	INFO	Listening on 127.0.0.1:53709
+1656612109600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53710" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileQ6RDF5"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:01:50.052 plugin-container[56728:787651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:50.053 plugin-container[56728:787651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:01:50.057 plugin-container[56728:787651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:50.057 plugin-container[56728:787651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:01:50.057 plugin-container[56728:787660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:01:50.057 plugin-container[56728:787660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612110123	Marionette	INFO	Marionette enabled
+1656612110197	Marionette	INFO	Listening on port 53715
+WebDriver BiDi listening on ws://localhost:53710
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53715
+1656612110476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileQ6RDF5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53710/devtools/browser/018ca0db-77d4-4ff6-9e7e-673516459b42
+1656612112748	Marionette	INFO	Stopped listening on port 53715
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656612460747	geckodriver	INFO	Listening on 127.0.0.1:53866
+1656612461259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53867" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileTKdAsT"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:07:41.716 plugin-container[57219:793367] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:07:41.717 plugin-container[57219:793367] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:07:41.737 plugin-container[57219:793367] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:07:41.737 plugin-container[57219:793367] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:07:41.738 plugin-container[57219:793369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:07:41.738 plugin-container[57219:793369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612461815	Marionette	INFO	Marionette enabled
+1656612461874	Marionette	INFO	Listening on port 53873
+WebDriver BiDi listening on ws://localhost:53867
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53873
+1656612462309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileTKdAsT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53867/devtools/browser/aeb159cf-6500-4fd6-814d-1fb4b43659ba
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656612605100	geckodriver	INFO	Listening on 127.0.0.1:53956
+1656612605608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53957" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileKWZYUe"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:10:06.068 plugin-container[57407:796131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:10:06.068 plugin-container[57407:796131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:10:06.072 plugin-container[57407:796131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:10:06.072 plugin-container[57407:796131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:10:06.072 plugin-container[57407:796129] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:10:06.072 plugin-container[57407:796129] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612606138	Marionette	INFO	Marionette enabled
+1656612606177	Marionette	INFO	Listening on port 53962
+WebDriver BiDi listening on ws://localhost:53957
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 53962
+1656612606555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofileKWZYUe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53957/devtools/browser/5d3050dc-4005-49ce-a129-9a4630c17cd6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1656612959832	geckodriver	INFO	Listening on 127.0.0.1:54140
+1656612960346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54141" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofile5yWOzx"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for SupportMenu.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for Cookies.
+2022-06-30 20:16:00.783 plugin-container[62797:811058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:16:00.783 plugin-container[62797:811058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:16:00.790 plugin-container[62797:811058] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:16:00.790 plugin-container[62797:811058] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-30 20:16:00.790 plugin-container[62797:811060] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-30 20:16:00.790 plugin-container[62797:811060] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: Policies.jsm: 
+  Unable to add security device NAME_OF_DEVICE
+1656612960857	Marionette	INFO	Marionette enabled
+1656612960899	Marionette	INFO	Listening on port 54146
+WebDriver BiDi listening on ws://localhost:54141
+console.error: Policies.jsm: 
+  OfferToSaveLoginsDefault ignored because OfferToSaveLogins is present.
+Read port: 54146
+1656612961277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/xr/s901p_4j1cj5v93jj5wwj1fsq35406/T/rust_mozprofile5yWOzx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54141/devtools/browser/cae2f6e1-347f-4cd2-b44c-97cb1793b5bb
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
